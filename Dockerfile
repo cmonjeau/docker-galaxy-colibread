@@ -2,7 +2,7 @@
 #
 # VERSION       0.2
 
-FROM cmonjeau/galaxy-stable
+FROM bgruening/galaxy-stable
 
 MAINTAINER Cyril Monjeaud, Cyril.Monjeaud@irisa.fr
 
